@@ -4,8 +4,8 @@ public class Main {
         int ticketCost = 13676;
         int rubForMile = 20;
 
-        int b = ticketCost / rubForMile;
-        System.out.println(b);
+        int bonusMile = ticketCost / rubForMile;
+        System.out.println(bonusMile);
 
 
     }
