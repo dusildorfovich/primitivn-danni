@@ -1,10 +1,10 @@
 public class Main {
     public static void main(String[] args) {
 
-        int s = 13676;
-        int k = 20;
+        int ticketCost = 13676;
+        int rubForMile = 20;
 
-        int b = s / k;
+        int b = ticketCost / rubForMile;
         System.out.println(b);
 
 
